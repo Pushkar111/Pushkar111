@@ -109,6 +109,10 @@
 
 <div align="center">
 
+[![trophy](https://trophy.ryglcloud.net/?username=Pushkar111&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
 [![GitHub Achievements](https://img.shields.io/badge/GitHub%20Achievements-View%20on%20Profile-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pushkar111?tab=achievements)
 
 </div>
