@@ -374,35 +374,6 @@
 
 </div>
 
----
-
-<!-- ████████████████████  SETUP GUIDE (COLLAPSIBLE)  ████████████████████ -->
-
-<details>
-<summary>⚙️ &nbsp; <strong>One-time setup to activate the 3D calendar</strong> — click to expand</summary>
-
-<br/>
-
-### Step 1 — Create a GitHub PAT (classic)
-Go to **[github.com/settings/tokens](https://github.com/settings/tokens)** → Generate new token **(classic)** → tick `read:user` + `repo` scopes → copy the token value.
-
-### Step 2 — Add the secret to your profile repo
-In your `Pushkar111` repo → **Settings → Secrets and variables → Actions** → **New repository secret**
-- Name: `METRICS_TOKEN`
-- Value: *(paste your token)*
-
-### Step 3 — Add the workflow files
-Drop both files into your repo:
-- `.github/workflows/metrics.yml` ← generates the 3D isometric calendar SVG
-- `.github/workflows/snake.yml` ← generates the contribution snake
-
-### Step 4 — Enable write permissions
-Repo **Settings → Actions → General → Workflow permissions** → select **"Read and write permissions"** → Save.
-
-### Step 5 — Run manually once
-Go to **Actions tab** → click each workflow → **Run workflow**. After ~2 minutes, `metrics.plugin.isocalendar.fullyear.svg` will appear in your repo root and the isometric calendar will show up on your profile automatically.
-
-</details>
 
 ---
 
