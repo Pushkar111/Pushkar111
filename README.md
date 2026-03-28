@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
      PUSHKAR MODI — GITHUB PROFILE README
-     Ultra Pro Max Edition 🔥
+     Ultra Pro Max Edition v2.0 🔥
      github.com/Pushkar111
 ════════════════════════════════════════════════════════════════════════════ -->
 
@@ -73,31 +73,103 @@
 
 ---
 
-<!-- ████████████████████  GITHUB STATS ROW  ████████████████████ -->
+<!-- ████████████████████  GITHUB STATS — DARK/LIGHT MODE AWARE  ████████████████████ -->
 
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
-<!-- Stable fallback: avoids frequent downtime from dynamic stats card providers -->
-[![Followers](https://img.shields.io/github/followers/Pushkar111?label=Followers&style=for-the-badge&color=6e40c9&labelColor=0d1117)](https://github.com/Pushkar111?tab=followers)
-&nbsp;
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-View%20on%20GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pushkar111?tab=repositories)
-&nbsp;
-[![Profile](https://img.shields.io/badge/Profile-Open%20Dashboard-0d1117?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/Pushkar111)
+<table>
+<tr>
+<td width="50%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pushkar111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=6e40c9&text_color=c9d1d9&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pushkar111&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=6e40c9&icon_color=a855f7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushkar111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a855f7&icon_color=6e40c9&text_color=c9d1d9&bg_color=0d1117" />
+</picture>
+
+</td>
+<td width="50%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pushkar111&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Pushkar111&theme=default&hide_border=true&ring=6e40c9&fire=a855f7&currStreakLabel=6e40c9" />
+  <img src="https://streak-stats.demolab.com?user=Pushkar111&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e" />
+</picture>
+
+</td>
+</tr>
+</table>
 
 </div>
 
+---
+
+<!-- ████████████████████  🔥 ISOMETRIC 3D CALENDAR — THE SHOWSTOPPER  ████████████████████ -->
+
+## 🗓️ &nbsp; Isometric 3D Contribution Calendar
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pushkar111&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pushkar111/Pushkar111/main/metrics.plugin.isocalendar.fullyear.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pushkar111/Pushkar111/main/metrics.plugin.isocalendar.fullyear.svg" />
+  <img src="https://raw.githubusercontent.com/Pushkar111/Pushkar111/main/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric 3D Contribution Calendar" width="100%" />
+</picture>
+
+> ⚙️ *Auto-generated daily via [lowlighter/metrics](https://github.com/lowlighter/metrics) GitHub Action · See setup below*
 
 </div>
 
+---
+
+<!-- ████████████████████  4-PANEL PROFILE SUMMARY CARDS  ████████████████████ -->
+
+## 🧩 &nbsp; Profile Summary
+
 <div align="center">
 
-### ⚡ Top Languages & Stack
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,postgresql,nodejs,react&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushkar111&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushkar111&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushkar111&theme=tokyonight" width="100%" alt="Profile Details" />
+</picture>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pushkar111&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pushkar111&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pushkar111&theme=tokyonight" alt="Stats" />
+</picture>
+</td>
+<td align="center" width="25%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pushkar111&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pushkar111&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pushkar111&theme=tokyonight" alt="Repos Per Language" />
+</picture>
+</td>
+<td align="center" width="25%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pushkar111&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pushkar111&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pushkar111&theme=tokyonight" alt="Most Commit Language" />
+</picture>
+</td>
+<td align="center" width="25%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pushkar111&theme=tokyonight&utcOffset=5.5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pushkar111&theme=github&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pushkar111&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST UTC+5:30)" />
+</picture>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -109,11 +181,11 @@
 
 <div align="center">
 
-[![trophy](https://trophy.ryglcloud.net/?username=Pushkar111&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-[![GitHub Achievements](https://img.shields.io/badge/GitHub%20Achievements-View%20on%20Profile-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pushkar111?tab=achievements)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Pushkar111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Pushkar111&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pushkar111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
+</picture>
 
 </div>
 
@@ -137,18 +209,29 @@
 ### 🛠️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma&theme=dark" />
 
-</div>
-
 <br/>
 
-<div align="center">
-
-<!-- Extra inline tech badges -->
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6e40c9?style=for-the-badge&logo=fastapi&logoColor=white)
 ![B+ Tree](https://img.shields.io/badge/B%2B%20Tree-0d1117?style=for-the-badge&logo=databricks&logoColor=a855f7)
 ![WAL](https://img.shields.io/badge/Write--Ahead%20Log-0d1117?style=for-the-badge&logo=apache&logoColor=a855f7)
 ![ACID](https://img.shields.io/badge/ACID%20Transactions-0d1117?style=for-the-badge&logo=postgresql&logoColor=a855f7)
+
+</div>
+
+---
+
+<!-- ████████████████████  TOP LANGUAGES  ████████████████████ -->
+
+## 💻 &nbsp; Most Used Languages
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&card_width=600" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar111&layout=compact&theme=default&hide_border=true&title_color=6e40c9&langs_count=8&card_width=600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&card_width=600" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -161,21 +244,37 @@
 <div align="center">
 
 <a href="https://github.com/Pushkar111/GateGaurd-IITGN-Databases-CS432">
-  <img src="https://img.shields.io/badge/GateGaurd-IITGN%20DB%20Engine-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=GateGaurd-IITGN-Databases-CS432&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=GateGaurd-IITGN-Databases-CS432&theme=default&hide_border=true&title_color=6e40c9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=GateGaurd-IITGN-Databases-CS432&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
+  </picture>
 </a>
 &nbsp;
 <a href="https://github.com/Pushkar111/JavaScript-ZeroToHero">
-  <img src="https://img.shields.io/badge/JavaScript-ZeroToHero-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=JavaScript-ZeroToHero&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=JavaScript-ZeroToHero&theme=default&hide_border=true&title_color=6e40c9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=JavaScript-ZeroToHero&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
+  </picture>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Pushkar111/event-management-api">
-  <img src="https://img.shields.io/badge/Event%20Management-REST%20API-0d1117?style=for-the-badge&logo=github&logoColor=a855f7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=event-management-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=event-management-api&theme=default&hide_border=true&title_color=6e40c9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=event-management-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
+  </picture>
 </a>
 &nbsp;
 <a href="https://github.com/Pushkar111/ip-address-tracker">
-  <img src="https://img.shields.io/badge/IP%20Address-Tracker-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=ip-address-tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=ip-address-tracker&theme=default&hide_border=true&title_color=6e40c9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=ip-address-tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
+  </picture>
 </a>
 
 </div>
@@ -210,7 +309,7 @@
 
 ---
 
-<!-- ████████████████████  WHAT I'M BUILDING  ████████████████████ -->
+<!-- ████████████████████  CURRENTLY  ████████████████████ -->
 
 ## ⚡ &nbsp; Currently
 
@@ -226,7 +325,7 @@
 
 ---
 
-<!-- ████████████████████  HIGHLIGHT CARD  ████████████████████ -->
+<!-- ████████████████████  PROUDEST ACHIEVEMENT  ████████████████████ -->
 
 ## 🔥 &nbsp; My Proudest Achievement
 
@@ -269,15 +368,41 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://pushkar111.github.io/)
 
-</div>
-
 <br/>
-
-<div align="center">
 
 *"The best code is code that solves a real problem."*
 
 </div>
+
+---
+
+<!-- ████████████████████  SETUP GUIDE (COLLAPSIBLE)  ████████████████████ -->
+
+<details>
+<summary>⚙️ &nbsp; <strong>One-time setup to activate the 3D calendar</strong> — click to expand</summary>
+
+<br/>
+
+### Step 1 — Create a GitHub PAT (classic)
+Go to **[github.com/settings/tokens](https://github.com/settings/tokens)** → Generate new token **(classic)** → tick `read:user` + `repo` scopes → copy the token value.
+
+### Step 2 — Add the secret to your profile repo
+In your `Pushkar111` repo → **Settings → Secrets and variables → Actions** → **New repository secret**
+- Name: `METRICS_TOKEN`
+- Value: *(paste your token)*
+
+### Step 3 — Add the workflow files
+Drop both files into your repo:
+- `.github/workflows/metrics.yml` ← generates the 3D isometric calendar SVG
+- `.github/workflows/snake.yml` ← generates the contribution snake
+
+### Step 4 — Enable write permissions
+Repo **Settings → Actions → General → Workflow permissions** → select **"Read and write permissions"** → Save.
+
+### Step 5 — Run manually once
+Go to **Actions tab** → click each workflow → **Run workflow**. After ~2 minutes, `metrics.plugin.isocalendar.fullyear.svg` will appear in your repo root and the isometric calendar will show up on your profile automatically.
+
+</details>
 
 ---
 
