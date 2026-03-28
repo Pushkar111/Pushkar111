@@ -79,26 +79,25 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushkar111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=6e40c9&text_color=c9d1d9&bg_color=0d1117)
-
-</td>
-<td width="50%">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pushkar111&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e)
-
-</td>
-</tr>
-</table>
+<!-- Stable fallback: avoids frequent downtime from dynamic stats card providers -->
+[![Followers](https://img.shields.io/github/followers/Pushkar111?label=Followers&style=for-the-badge&color=6e40c9&labelColor=0d1117)](https://github.com/Pushkar111?tab=followers)
+&nbsp;
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-View%20on%20GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pushkar111?tab=repositories)
+&nbsp;
+[![Profile](https://img.shields.io/badge/Profile-Open%20Dashboard-0d1117?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/Pushkar111)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&card_width=600)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pushkar111&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e)
+
+</div>
+
+<div align="center">
+
+### ⚡ Top Languages & Stack
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,postgresql,nodejs,react&theme=dark" />
 
 </div>
 
@@ -110,7 +109,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pushkar111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Achievements](https://img.shields.io/badge/GitHub%20Achievements-View%20on%20Profile-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pushkar111?tab=achievements)
 
 </div>
 
@@ -158,21 +157,21 @@
 <div align="center">
 
 <a href="https://github.com/Pushkar111/GateGaurd-IITGN-Databases-CS432">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=GateGaurd-IITGN-Databases-CS432&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9&description_lines_count=3" />
+  <img src="https://img.shields.io/badge/GateGaurd-IITGN%20DB%20Engine-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/Pushkar111/JavaScript-ZeroToHero">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=JavaScript-ZeroToHero&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
+  <img src="https://img.shields.io/badge/JavaScript-ZeroToHero-a855f7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Pushkar111/rest-countries-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=rest-countries-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
+<a href="https://github.com/Pushkar111/event-management-api">
+  <img src="https://img.shields.io/badge/Event%20Management-REST%20API-0d1117?style=for-the-badge&logo=github&logoColor=a855f7" />
 </a>
 &nbsp;
-<a href="https://github.com/Pushkar111">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=movie-search-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
+<a href="https://github.com/Pushkar111/ip-address-tracker">
+  <img src="https://img.shields.io/badge/IP%20Address-Tracker-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -264,7 +263,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Say%20Hello!-6e40c9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pushkar.modi@iitgn.ac.in)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://pushkar111.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://pushkar111.github.io/)
 
 </div>
 
