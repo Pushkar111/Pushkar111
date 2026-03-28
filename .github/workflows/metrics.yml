@@ -1,0 +1,40 @@
+# ═══════════════════════════════════════════════════════════════
+# .github/workflows/metrics.yml
+# Generates the isometric 3D contribution calendar SVG daily
+# Requires: METRICS_TOKEN secret (classic PAT with read:user + repo)
+# ═══════════════════════════════════════════════════════════════
+
+name: 🗓️ Generate Isometric 3D Calendar
+
+on:
+  # Run every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow manual trigger from Actions tab
+  workflow_dispatch:
+
+  # Also regenerate on every push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    name: Generate Metrics SVG
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      # Full-year isometric 3D contribution calendar
+      - name: 🗓️ Generate isometric calendar (full year)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
