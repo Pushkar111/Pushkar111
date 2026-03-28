@@ -182,9 +182,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Pushkar111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Pushkar111&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Pushkar111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pushkar111/Pushkar111/main/metrics.plugin.achievements.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pushkar111/Pushkar111/main/metrics.plugin.achievements.svg" />
+  <img src="https://raw.githubusercontent.com/Pushkar111/Pushkar111/main/metrics.plugin.achievements.svg" alt="GitHub Achievements" width="100%" />
 </picture>
 
 </div>
@@ -228,9 +228,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&card_width=600" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar111&layout=compact&theme=default&hide_border=true&title_color=6e40c9&langs_count=8&card_width=600" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&card_width=600" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pushkar111/Pushkar111/main/metrics.plugin.languages.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pushkar111/Pushkar111/main/metrics.plugin.languages.svg" />
+  <img src="https://raw.githubusercontent.com/Pushkar111/Pushkar111/main/metrics.plugin.languages.svg" alt="Most Used Languages" width="100%" />
 </picture>
 
 </div>
@@ -243,39 +243,11 @@
 
 <div align="center">
 
-<a href="https://github.com/Pushkar111/GateGaurd-IITGN-Databases-CS432">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=GateGaurd-IITGN-Databases-CS432&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=GateGaurd-IITGN-Databases-CS432&theme=default&hide_border=true&title_color=6e40c9" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=GateGaurd-IITGN-Databases-CS432&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://github.com/Pushkar111/JavaScript-ZeroToHero">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=JavaScript-ZeroToHero&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=JavaScript-ZeroToHero&theme=default&hide_border=true&title_color=6e40c9" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=JavaScript-ZeroToHero&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
-  </picture>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Pushkar111/event-management-api">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=event-management-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=event-management-api&theme=default&hide_border=true&title_color=6e40c9" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=event-management-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://github.com/Pushkar111/ip-address-tracker">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=ip-address-tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=ip-address-tracker&theme=default&hide_border=true&title_color=6e40c9" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pushkar111&repo=ip-address-tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=6e40c9" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pushkar111/Pushkar111/main/metrics.plugin.repositories.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pushkar111/Pushkar111/main/metrics.plugin.repositories.svg" />
+  <img src="https://raw.githubusercontent.com/Pushkar111/Pushkar111/main/metrics.plugin.repositories.svg" alt="Featured Projects" width="100%" />
+</picture>
 
 </div>
 

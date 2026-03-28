@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-label="Featured Projects">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="340" rx="16" fill="url(#bg)" />
+  <text x="32" y="56" fill="#a855f7" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Featured Projects</text>
+  <text x="32" y="96" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="18">Auto-generated project cards will appear here after workflow execution.</text>
+  <rect x="32" y="124" width="430" height="84" rx="10" fill="#21262d" stroke="#30363d" />
+  <rect x="498" y="124" width="430" height="84" rx="10" fill="#21262d" stroke="#30363d" />
+  <rect x="32" y="220" width="430" height="84" rx="10" fill="#21262d" stroke="#30363d" />
+  <rect x="498" y="220" width="430" height="84" rx="10" fill="#21262d" stroke="#30363d" />
+  <text x="52" y="175" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="15">GateGaurd-IITGN-Databases-CS432</text>
+  <text x="518" y="175" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="15">JavaScript-ZeroToHero</text>
+  <text x="52" y="271" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="15">event-management-api</text>
+  <text x="518" y="271" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="15">ip-address-tracker</text>
+</svg>
